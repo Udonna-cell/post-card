@@ -54,7 +54,7 @@ section.info p, h1 {
   opacity: 0.5;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 900px) {
   section.post {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
